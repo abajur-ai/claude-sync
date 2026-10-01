@@ -1,0 +1,4 @@
+# Every file keeps the exact bytes it was tested with, whatever the Git settings of the computer that
+# clones or downloads it. claude-sync.cmd has a CRLF batch header over an LF payload, and converting
+# either part would change what runs.
+* -text
